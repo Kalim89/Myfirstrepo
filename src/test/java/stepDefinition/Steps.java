@@ -73,6 +73,6 @@ public class Steps
 	@Then("Close the browser")
 	public void close_the_browser() {
 	    driver.quit();
-	    
+	   System.out.println("Krish updated the file from GitHub Repo"}; 
 	}
 }
